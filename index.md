@@ -2,8 +2,6 @@
 layout: default
 title: index
 has_children: true
-#nav_exclude: true
-#has_toc: false
 ---
 
 Hello world
