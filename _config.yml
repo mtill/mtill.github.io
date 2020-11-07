@@ -1,0 +1,6 @@
+title: "mtill"
+#theme: "just-the-docs"
+#color_scheme: dark
+remote_theme: pmarsceill/just-the-docs
+search_enabled: false
+footer_content: "&copy; mtill; 2020"
