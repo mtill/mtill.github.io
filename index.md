@@ -1,8 +1,3 @@
 ---
-layout: default
-title: index
-has_children: true
+layout: home
 ---
-
-Hello world
-
